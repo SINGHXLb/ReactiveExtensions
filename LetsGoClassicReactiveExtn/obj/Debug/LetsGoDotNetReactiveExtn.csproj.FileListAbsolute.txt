@@ -1,0 +1,8 @@
+C:\Repos\ReactiveExtensions\LetsGoClassicReactiveExtn\bin\Debug\LetsGoDotNetReactiveExtn.exe.config
+C:\Repos\ReactiveExtensions\LetsGoClassicReactiveExtn\bin\Debug\LetsGoDotNetReactiveExtn.exe
+C:\Repos\ReactiveExtensions\LetsGoClassicReactiveExtn\bin\Debug\LetsGoDotNetReactiveExtn.pdb
+C:\Repos\ReactiveExtensions\LetsGoClassicReactiveExtn\obj\Debug\LetsGoDotNetReactiveExtn.csproj.AssemblyReference.cache
+C:\Repos\ReactiveExtensions\LetsGoClassicReactiveExtn\obj\Debug\LetsGoDotNetReactiveExtn.csproj.SuggestedBindingRedirects.cache
+C:\Repos\ReactiveExtensions\LetsGoClassicReactiveExtn\obj\Debug\LetsGoDotNetReactiveExtn.csproj.CoreCompileInputs.cache
+C:\Repos\ReactiveExtensions\LetsGoClassicReactiveExtn\obj\Debug\LetsGoDotNetReactiveExtn.exe
+C:\Repos\ReactiveExtensions\LetsGoClassicReactiveExtn\obj\Debug\LetsGoDotNetReactiveExtn.pdb

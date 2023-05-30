@@ -1,0 +1,15 @@
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\bin\Debug\net6.0\LetsGoReactiveExtn.exe
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\bin\Debug\net6.0\LetsGoReactiveExtn.deps.json
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\bin\Debug\net6.0\LetsGoReactiveExtn.runtimeconfig.json
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\bin\Debug\net6.0\LetsGoReactiveExtn.dll
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\bin\Debug\net6.0\LetsGoReactiveExtn.pdb
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\LetsGoReactiveExtn.csproj.AssemblyReference.cache
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\LetsGoReactiveExtn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\LetsGoReactiveExtn.AssemblyInfoInputs.cache
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\LetsGoReactiveExtn.AssemblyInfo.cs
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\LetsGoReactiveExtn.csproj.CoreCompileInputs.cache
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\LetsGoReactiveExtn.dll
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\refint\LetsGoReactiveExtn.dll
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\LetsGoReactiveExtn.pdb
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\LetsGoReactiveExtn.genruntimeconfig.cache
+C:\Repos\ReactiveExtensions\LetsGoReactiveExtn\obj\Debug\net6.0\ref\LetsGoReactiveExtn.dll
